@@ -1,0 +1,10 @@
+# Regular Expressions
+
+a/k/a regex or regexp or rational expressions
+
+## What is a regular expression
+* Sequence of character expressing a pattern for matching in a longer string.
+* A text string to describe a searchable pattern
+* Extracts required information via pattern matching
+* Pattern matching is essential for computing
+* Find the patterns..
