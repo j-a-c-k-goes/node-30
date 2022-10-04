@@ -1,0 +1,1 @@
+A preprocessing  module is necessary as a front end, since TTS [text-to-speech] systems should in principle be able to read any text, including numbers, abbreviations, acronyms, and idiomatics in any format.
