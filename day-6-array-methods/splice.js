@@ -1,6 +1,6 @@
 // Splice method can either add or remove elements from an array
 // indexes first, then argument (String, int, data type...)
-// If index has an elment, splice() will replace element @ that index
+// If index has an element, splice() will replace element @ that index
 // The original array is mutated!
 let arr = ["lions", "tigers", "bears", "whales"];
 let data = ["apples", "pears", "cherries"];
